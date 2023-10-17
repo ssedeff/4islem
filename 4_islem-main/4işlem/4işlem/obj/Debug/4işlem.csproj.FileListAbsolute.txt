@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\bin\Debug\4işlem.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\bin\Debug\4işlem.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\bin\Debug\4işlem.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\4işlem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\4işlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\_4işlem.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\_4işlem.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\4işlem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\4işlem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\4işlem.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\4işlem\4işlem\obj\Debug\4işlem.pdb
